@@ -4,8 +4,7 @@
 
 I have resolved **1,000+ support tickets within SLA** across my support roles, working mainly with Windows environments, Active Directory / Microsoft 365, and small-to-medium office networks. Before IT support I spent a year in **Quality Assurance**, which taught me documentation discipline and how to write a bug report a developer actually thanks you for.
 
-> 📌 This README lives in the `MuhammadTariq788/MuhammadTariq788` special repository.
-> Contact email: maliktariqzaman788@gmail.com
+🌐 **Portfolio:** [muhammad-tariq-zaman.github.io](https://muhammad-tariq-zaman.github.io/) · 💼 **LinkedIn:** [linkedin.com/in/muhammad-tariq-zaman](https://www.linkedin.com/in/muhammad-tariq-zaman/) · 📧 **Email:** mohammadtariqzaman@gmail.com
 
 ---
 
@@ -20,45 +19,51 @@ I have resolved **1,000+ support tickets within SLA** across my support roles, w
 | **Support operations** | osTicket, Samanage — ticketing, SLA tracking, escalation |
 | **Asset management** | IT asset inventory, lifecycle tracking |
 | **Data** | Google Advanced Data Analytics (Coursera), Excel, data cleaning basics |
-| **Automation (learning)** | PowerShell scripting, Python (Google IT Automation with Python) |
+| **Automation** | PowerShell scripting, Python (Google) |
 
 ## 💼 Experience snapshot
 
-- **IT Support Executive — OVEXTECH, Islamabad** (2026 – present)
+- **IT Support Executive — OVEXTECH, Islamabad** (Apr 2026 – present)
   On-site IT support for a client office: workstation deployment, user support, network troubleshooting, asset inventory.
-- **IT Support Executive — NCRI, Pakistan branch** (2025 – 2026)
-  End-user support, ticketing and escalations, backups and imaging, cross-border coordination with a Tier-1 team abroad.
-- **QA Executive — Errands Services** (2024 – 2025)
+- **IT Support Executive — NCRI, Pakistan branch** (Apr 2025 – Apr 2026)
+  End-user support, ticketing and escalations, backups and imaging, cross-border coordination with a Tier-1 team abroad (Montreal).
+- **QA Executive — Errands Services** (Feb 2024 – Apr 2025)
   Software QA for a call-center services company: test cases, defect reporting, release checks.
 
 ## 🎓 Education & certifications
 
-- **BSCS — Allama Iqbal Open University** (2024), CGPA 3.42/4.00
+- **BSCS — Allama Iqbal Open University** (2019 – 2024), CGPA 3.42/4.00
 - **CCNA** (Cisco Certified Network Associate)
-- **Google Advanced Data Analytics** — Coursera
+- **Google Advanced Data Analytics Professional Certificate** — Coursera (May 2023)
 - Coursera: Python (Google), Microsoft 365 / Active Directory / Excel, Data Analysis, Coding Interview Preparation (Meta)
 
-## 🌱 Currently learning
+## 🔬 Final-year project
 
-- 🇩🇪 **German** — working toward A1→A2 (DW Nicos Weg + vhs-Lernportal)
-- 🐍 **Python** — for support automation and data work
-- ⚙️ **PowerShell** — turning repeat support tasks into safe, documented scripts (see my toolkit repo)
+**MATLAB-based GUI for LiDAR data processing** — NGIRI-funded (project code NGIRI-2023-17431), at AIOU, with Ehtisham Ahmad, supervised by Dr. Aftab Khan. Plots and write-up are on my [portfolio](https://muhammad-tariq-zaman.github.io/).
 
 ## 📂 Featured projects
 
-- **it-support-toolkit** — the safe PowerShell/Batch scripts I use (and document) for everyday support work
-- **ai-blog-automation** — a case study of my automated AI-tools blog: 5 researched, SEO-checked articles a day, fully server-side
-- **ccna-networking-notes** — my public CCNA study notes: subnetting, OSI vs TCP/IP, ports, VLANs, troubleshooting
+- **[it-support-toolkit](https://github.com/muhammad-tariq-zaman/it-support-toolkit)** — safe, documented PowerShell scripts for everyday support work: system info, network diagnostics, disk health, software inventory, print spooler, updates
+- **[ccna-networking-notes](https://github.com/muhammad-tariq-zaman/ccna-networking-notes)** — my public CCNA study notes: subnetting, OSI vs TCP/IP, ports, VLANs, troubleshooting
+- **[ai-blog-automation](https://github.com/muhammad-tariq-zaman/ai-blog-automation)** — case study of an automated AI-tools blog pipeline (research → write → QC → publish, 5×/day, $0 budget). Honest status: the Blogger email publishing route broke on 15 Oct 2026, so the pipeline is in staging and a Blogger-API Plan B is built — the repo documents the system and its failures, not a live blog
+- **[muhammad-tariq-zaman.github.io](https://github.com/muhammad-tariq-zaman/muhammad-tariq-zaman.github.io)** — this portfolio site itself, on free GitHub Pages
+
+## 🌱 Currently learning
+
+- 🐍 **Python** — for support automation and data work
+- ⚙️ **PowerShell** — turning repeat support tasks into safe, documented scripts (see my toolkit repo)
+- 🇩🇪 **German** — free self-study toward A1 (DW Nicos Weg + vhs-Lernportal)
 
 ## 🌍 Languages
 
-English (professional) · Urdu · Punjabi · Pashto · Saraiki
+English · Urdu · Punjabi · Pashto · Saraiki
 
 ## 📫 Connect with me
 
-- **LinkedIn:** [linkedin.com/in/muhammadtariq925](https://www.linkedin.com/in/muhammadtariq925)
-- **Email:** maliktariqzaman788@gmail.com
-- **Location:** Islamabad, Pakistan — open to remote IT support roles worldwide
+- **Portfolio:** [muhammad-tariq-zaman.github.io](https://muhammad-tariq-zaman.github.io/)
+- **LinkedIn:** [linkedin.com/in/muhammad-tariq-zaman](https://www.linkedin.com/in/muhammad-tariq-zaman/)
+- **Email:** mohammadtariqzaman@gmail.com
+- **Location:** Islamabad, Pakistan — open to remote IT support roles worldwide and on-site roles in Islamabad
 
 ---
 
